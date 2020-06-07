@@ -1,0 +1,11 @@
+.app-container{
+  width: 100vw;
+  height: 100vh;
+  background: coral;
+}
+
+.dropdown{
+  margin-left: 50px;
+  padding-top: 20px;
+  background: transparent;
+}
